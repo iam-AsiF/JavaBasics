@@ -1,0 +1,22 @@
+Object-Oriented Programming (OOP) - OOP is used to call same
+function in difference class in difference class without writing
+the same code over and over again
+
+Object - An entity that has state and behavior
+State - Data
+Behavior - Function
+// we make object to represent a class.
+
+Access Modifier:
+public - accessible by all package and class
+private - accessible only in the class
+protected - accessible within the same package
+
+Static - indicates return type
+//if we use static keyword we don't need to make any object
+//else, we need to make object in the main body to call a
+//specific method
+
+method == function
+method 2 types - Pre-defined, User-defined
+
