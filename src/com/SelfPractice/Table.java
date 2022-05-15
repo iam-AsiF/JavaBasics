@@ -1,4 +1,4 @@
-package com.self.practice;
+package com.SelfPractice;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Table {
         Scanner input = new Scanner(System.in);
         int m;
         System.out.println("Suppose 'm' is the number for which you want a table.");
-        System.out.println("The value of 'm' should be between '1 to 10.'");
+        System.out.println("The value of 'm' should be '1 to 10.'");
         System.out.print("So put the value of 'm': ");
         m = input.nextInt();
 
@@ -18,7 +18,7 @@ public class Table {
         for(int i = 1; i <= 10; i++){
 
             int k = m * i;
-            System.out.println(+m+" x "+i+" = "+k);
+            System.out.println(m+" x "+i+" = "+k);
             }
         }
 

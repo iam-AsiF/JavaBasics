@@ -1,9 +1,10 @@
-package com.self.practice;
+package com.SelfPractice.Array;
 
 import java.util.Scanner;
 
 public class Array {
     public static void main(String[] args) {
+
         //We need to use new operator to make an array
         //format-> data_type[] array_name = new data_type[array_size]
 

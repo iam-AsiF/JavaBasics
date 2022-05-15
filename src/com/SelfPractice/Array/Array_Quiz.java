@@ -1,4 +1,4 @@
-package com.self.practice;
+package com.SelfPractice.Array;
 public class Array_Quiz {
     public static void main(String[] args) {
         int[] arr1 = {1, 2};

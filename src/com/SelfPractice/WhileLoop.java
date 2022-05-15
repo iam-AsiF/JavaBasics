@@ -1,4 +1,4 @@
-package com.self.practice;
+package com.SelfPractice;
 
 public class WhileLoop {
 
